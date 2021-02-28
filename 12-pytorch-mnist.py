@@ -138,3 +138,4 @@ if __name__ == '__main__':
     t0 = time.time()
     main()
     print(f'Elapsed time {time.time() - t0:.1f}')
+    print(f'Pytorch version {torch.__version__}')
