@@ -1,0 +1,5 @@
+ipywidgets
+jupyterlab
+numpy 
+matplotlib
+scikit-image
